@@ -36,9 +36,11 @@
     ]
   },
   "devDependencies": {
+    "axios": "^0.21.4",
     "react-redux": "^7.2.4",
     "react-router-dom": "^5.2.0",
     "redux": "^4.1.1",
-    "redux-form": "^8.3.7"
+    "redux-form": "^8.3.7",
+    "redux-thunk": "^2.3.0"
   }
 }
